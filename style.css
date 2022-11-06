@@ -237,3 +237,17 @@ hr {
     font-size: 20px;
     margin-left: 6%;
   }
+
+.section-header1 {
+    margin-bottom: 3%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+ 
+  .content3 a {
+    color: #3a3a3a;
+  }
+
+  .content3 a:hover {
+    color: #b1c4d2;
+  }
