@@ -117,8 +117,9 @@ span {
 
 img {
     width: 100%;
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
+    margin-left: 10px;
 }
 
 hr {
